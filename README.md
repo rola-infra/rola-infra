@@ -1,30 +1,26 @@
 # Hi, I'm Rola 👋
 
-Linux server engineer focused on infrastructure, deployment and debugging.
-I work on real VPS servers — not localhost, not tutorials.
+I work on Linux servers — setting them up, deploying apps, and fixing issues when things break.
 
 ## What I Do
-- Linux server setup and configuration (Ubuntu)
-- Nginx web server — SSL, caching, security
-- WordPress manual deployment (no cPanel)
-- Server hardening — SSH, Fail2Ban, UFW firewall
-- Debugging real server issues using logs
+- Set up Linux servers (Ubuntu)
+- Configure Nginx (SSL, caching, basic security)
+- Deploy WordPress manually (no cPanel)
+- Apply server hardening (SSH, Fail2Ban, UFW)
+- Debug server issues using logs
 
-## Current Stack
-![Linux](https://img.shields.io/badge/Linux-Ubuntu-orange)
-![Nginx](https://img.shields.io/badge/Nginx-green)
-![PHP](https://img.shields.io/badge/PHP-8.3-blue)
-![MySQL](https://img.shields.io/badge/MySQL-yellow)
-![SSL](https://img.shields.io/badge/SSL-LetsEncrypt-brightgreen)
+## Stack
+Linux (Ubuntu) · Nginx · PHP-FPM · MySQL · Let's Encrypt
 
-## My Repos
-- [linux-server-lab](https://github.com/rola-infra/linux-server-lab) — Nginx + WordPress production setup
-- [linux-server-hardening](https://github.com/rola-infra/linux-server-hardening) — SSH, Fail2Ban, UFW config
+## Projects
+- [linux-server-lab](https://github.com/rola-infra/linux-server-lab) — Nginx + WordPress setup on live VPS
+- [linux-server-hardening](https://github.com/rola-infra/linux-server-hardening) — SSH, Fail2Ban, UFW configuration
 
 ## Currently Learning
-- MySQL performance tuning
 - Nginx advanced configuration
 - Server monitoring and log analysis
+- MySQL basics for server administration
 
 ## Live Server
-Running a real VPS (Contabo, Europe) with WordPress eCommerce — actively experimenting and documenting everything.
+Running a VPS (Contabo, Europe) with a WordPress site.
+Using it to test configurations and debug real issues.
