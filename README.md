@@ -48,6 +48,6 @@ A full-stack task management app with authentication, search/filter/sort, and a 
 
 ## 📈 Background
 
-Learning web development by building and deploying real projects.
+Learning web development by building and deploying projects.
 
 📫 Reach me: rolaregex@gmail.com
