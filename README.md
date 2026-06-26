@@ -1,26 +1,53 @@
 # Hi, I'm Rola 👋
 
-I work on Linux servers — setting them up, deploying apps, and fixing issues when things break.
+Full-stack MERN developer who also deploys and manages the infrastructure behind my own projects — from writing the API to putting it live on a real server with Docker, Nginx, and SSL.
 
-## What I Do
-- Set up Linux servers (Ubuntu)
-- Configure Nginx (SSL, caching, basic security)
-- Deploy WordPress manually (no cPanel)
-- Apply server hardening (SSH, Fail2Ban, UFW)
-- Debug server issues using logs
+---
 
-## Stack
-Linux (Ubuntu) · Nginx · PHP-FPM · MySQL · Let's Encrypt
+## 🚀 Featured Project — Flowlist
 
-## Projects
-- [linux-server-lab](https://github.com/rola-infra/linux-server-lab) — Nginx + WordPress setup on live VPS
-- [linux-server-hardening](https://github.com/rola-infra/linux-server-hardening) — SSH, Fail2Ban, UFW configuration
+A full-stack task management app with authentication, search/filter/sort, and a live production deployment.
 
-## Currently Learning
-- Nginx advanced configuration
-- Server monitoring and log analysis
-- MySQL basics for server administration
+🔗 **Live Demo:** [flowlist.rolaconsult.com](https://flowlist.rolaconsult.com)
+🔗 **Source Code:** [github.com/rola-infra/Flowlist](https://github.com/rola-infra/Flowlist)
 
-## Live Server
-Running a VPS (Contabo, Europe) with a WordPress site.
-Using it to test configurations and debug real issues.
+**Stack:** React · Node.js · Express · MongoDB · JWT Auth · Docker · Nginx
+
+---
+
+## 🧰 Skills
+
+**Frontend**
+`React` `React Router` `Tailwind CSS` `Axios`
+
+**Backend**
+`Node.js` `Express` `REST APIs` `JWT Authentication` `Zod Validation`
+
+**Database**
+`MongoDB` `Mongoose`
+
+**Infrastructure & DevOps**
+`Docker` `Docker Compose` `Nginx` `Linux (Ubuntu)` `SSH Hardening` `Let's Encrypt SSL`
+
+---
+
+## 📌 Other Projects
+
+- 🔐 [linux-server-hardening](https://github.com/rola-infra/linux-server-hardening) — SSH, Fail2Ban, and UFW firewall setup on a live VPS
+- 🛠️ [linux-server-lab](https://github.com/rola-infra/linux-server-lab) — Nginx + WordPress deployment, with real production issues diagnosed and fixed
+
+---
+
+## 📚 Currently Learning
+
+- Writing automated tests (Jest, Supertest, React Testing Library)
+- Stronger authentication & security practices
+- Building real-time features with Socket.io
+
+---
+
+## 📈 Background
+
+Learning web development by building and deploying real projects.
+
+📫 Reach me: rolaregex@gmail.com
